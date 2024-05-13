@@ -8,3 +8,5 @@ ini tes di branch
 
 
 babi
+
+Nano file2
